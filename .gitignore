@@ -1,0 +1,58 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+Env/
+Venv/
+ENV/
+Build/
+Develop-eggs/
+Dist/
+Downloads/
+Eggs/
+.eggs/
+Lib/
+Lib64/
+Parts/
+Sdist/
+Var/
+Wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Ehthumbs.db
+Thumbs.db
+
+# Environment variables
+.env
+.venv
+
+# Logs
+*.log
+
+# Data 
+# data/*.csv
+# data/*.xlsx
+
